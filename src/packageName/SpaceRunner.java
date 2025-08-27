@@ -12,7 +12,7 @@ public class SpaceRunner {
             SpaceTools.compareDistance(earth, mars));
             
         System.out.println("The abbreviation for Mars is: " + 
-            SpaceTools.abbreviation(Planet p));
+            SpaceTools.abbreviation(mars));
             
         System.out.println("Earth orbit time (default speed): " +
             SpaceTools.orbitTime(earth) + " hours");
